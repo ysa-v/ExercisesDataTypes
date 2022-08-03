@@ -2,7 +2,7 @@
 
 namespace ExercisesDataTypes
 {
-    class Program
+    class InputOutput
     {
         static void Main(string[] args)
         {
