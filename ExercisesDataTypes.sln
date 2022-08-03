@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1700.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesDataTypes", "ExercisesDataTypes\ExercisesDataTypes.csproj", "{A0E80B73-050C-4BB3-B8B3-83060FE2F4E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "ExercisesDataTypes\InputOutput.csproj", "{A0E80B73-050C-4BB3-B8B3-83060FE2F4E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{AECE8AF7-26D7-4585-8F91-AEEF936391B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A0E80B73-050C-4BB3-B8B3-83060FE2F4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E80B73-050C-4BB3-B8B3-83060FE2F4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E80B73-050C-4BB3-B8B3-83060FE2F4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECE8AF7-26D7-4585-8F91-AEEF936391B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECE8AF7-26D7-4585-8F91-AEEF936391B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECE8AF7-26D7-4585-8F91-AEEF936391B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECE8AF7-26D7-4585-8F91-AEEF936391B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
